@@ -1,2 +1,2 @@
 # Escape Room
-Escape Room Features Designed for Blinds
+Escape Room Features Designed For Blinds
